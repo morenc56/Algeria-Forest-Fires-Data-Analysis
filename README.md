@@ -10,7 +10,6 @@ Projede kullanılan Python kütüphaneleri şunlardır:
 * **numpy**: Sayısal işlemler ve dizilerle çalışmak için.
 * **matplotlib.pyplot**: Veri görselleştirme için.
 * **seaborn**: İstatistiksel grafikler oluşturmak için.
-* **plotly**: İnteraktif grafikler oluşturmak için.
 * **sklearn**: Makine öğrenmesi modeli oluşturmak ve değerlendirmek için.
 
 ### Veri Seti
